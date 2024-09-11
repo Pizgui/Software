@@ -55,7 +55,7 @@ public class TelaLogin extends javax.swing.JFrame {
             }
         });
 
-        jLabel3.setText("Rafael Viadinho");
+        jLabel3.setText("Jocas cuzudo");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
